@@ -10,7 +10,7 @@
 		<project.source.encoding>UTF-8</project.source.encoding>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<org.apache.tomcat>8.0.33</org.apache.tomcat>
+		<org.apache.tomcat>8.5.82</org.apache.tomcat>
 		<spring.webmvc.version>4.2.5.RELEASE</spring.webmvc.version>
 		<org.springframework.security-version>4.1.0.RELEASE</org.springframework.security-version>
 		<project.source.version>1.8</project.source.version>
